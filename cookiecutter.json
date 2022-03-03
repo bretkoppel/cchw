@@ -1,4 +1,5 @@
 {
     "directory_name": "hello-world",
-    "application_name": "HelloWorld"
+    "application_name": "HelloWorld",
+    "version": "0.1"
 }
